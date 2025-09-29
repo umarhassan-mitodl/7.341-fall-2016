@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains a list of readings by week including links to lecture
   summaries and online journal articles.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -59,9 +61,9 @@ Alien invasion: How Toxoplasma secretly enters host cells
 {{< tdopen >}}
 
 
-Morisaki, J. H., J. E. Heuser, et al. "{{% resource_link "02b4d4c5-6560-48fa-b0e7-b0a3eccffe93" "Invasion of _Toxoplasma Gondii_ Occurs by Active Penetration of the Host Cell" %}}." _Journal of Cell Science_ 108, no. 6 (1995): 2457–64.
+Morisaki, J. H., J. E. Heuser, et al. "[Invasion of _Toxoplasma Gondii_ Occurs by Active Penetration of the Host Cell](https://www.ncbi.nlm.nih.gov/pubmed/7673360)." _Journal of Cell Science_ 108, no. 6 (1995): 2457–64.
 
-Mordue, D. G., et al. "{{% resource_link "25053204-ba72-489a-b8e0-87cd91cdbe69" "Invasion by _Toxoplasma Gondii_ Establishes a Moving Junction that Selectively Excludes Host Cell Plasma Membrane Proteins on the Basis of their Membrane Anchoring" %}}." _The Journal of Experimental Medicine_ 190, no. 12 (1999): 1783–92. (The Rockefeller University Press)
+Mordue, D. G., et al. "[Invasion by _Toxoplasma Gondii_ Establishes a Moving Junction that Selectively Excludes Host Cell Plasma Membrane Proteins on the Basis of their Membrane Anchoring](http://dx.doi.org/10.1084/jem.190.12.1783)." _The Journal of Experimental Medicine_ 190, no. 12 (1999): 1783–92. (The Rockefeller University Press)
 
 
 {{< tdclose >}}
@@ -83,9 +85,9 @@ Make yourself at home: Intracellular survival in the parasitophorous vacuole
 {{< tdopen >}}
 
 
-Eksi, S., and K. C. Williamson. "{{% resource_link "b17f54e8-02e6-4740-94bf-0e817efd8a1a" "Protein Targeting to the Parasitophorous Vacuole Membrane of _Plasmodium Falciparum_" %}}." _Eukaryotic Cell_ 10, no. 6 (2011): 744–52. (American Society for Microbiology)
+Eksi, S., and K. C. Williamson. "[Protein Targeting to the Parasitophorous Vacuole Membrane of _Plasmodium Falciparum_](http://dx.doi.org/10.1128/EC.00008-11)." _Eukaryotic Cell_ 10, no. 6 (2011): 744–52. (American Society for Microbiology)
 
-Nadipuram, S. M., E. W. Kim, et al. "{{% resource_link "f8716b47-065e-4fe7-8ea0-21db1eabc3e9" "In Vivo Biotinylation of the _Toxoplasma_ Parasitophorous Vacuole Reveals Novel Dense Granule Proteins Important for Parasite Growth and Pathogenesis" %}}." _mBio_ 7, no. 4 (2016): e00808–16. (American Society for Microbiology)
+Nadipuram, S. M., E. W. Kim, et al. "[In Vivo Biotinylation of the _Toxoplasma_ Parasitophorous Vacuole Reveals Novel Dense Granule Proteins Important for Parasite Growth and Pathogenesis](http://dx.doi.org/10.1128/mBio.00808-16)." _mBio_ 7, no. 4 (2016): e00808–16. (American Society for Microbiology)
 
 
 {{< tdclose >}}
@@ -107,9 +109,9 @@ How parasites transport proteins and nutrients across membranes
 {{< tdopen >}}
 
 
-Elsworth, B., K. Matthews, et al. "{{% resource_link "60cb00e1-1719-4293-91cf-768c125234f0" "PTEX is an Essential Nexus for Protein Export in Malaria Parasites" %}}." _Nature_ 511, no. 7511 (2014): 587–91.
+Elsworth, B., K. Matthews, et al. "[PTEX is an Essential Nexus for Protein Export in Malaria Parasites](http://dx.doi.org/10.1038/nature13555)." _Nature_ 511, no. 7511 (2014): 587–91.
 
-Gold, D. A., A. D. Kaplan, et al. "{{% resource_link "74d28121-0374-4c65-a538-0cf5419d42f6" "The _Toxoplasma_ Dense Granule Proteins GRA17 and GRA23 Mediate the Movement of Small Molecules between the Host and the Parasitophorous Vacuole" %}}." _Cell Host & Microbe_ 17, no. 5 (2015): 642–52.
+Gold, D. A., A. D. Kaplan, et al. "[The _Toxoplasma_ Dense Granule Proteins GRA17 and GRA23 Mediate the Movement of Small Molecules between the Host and the Parasitophorous Vacuole](http://dx.doi.org/10.1016/j.chom.2015.04.003)." _Cell Host & Microbe_ 17, no. 5 (2015): 642–52.
 
 
 {{< tdclose >}}
@@ -131,9 +133,9 @@ The transforming parasite: How Theileria modifies its host cell in order to repl
 {{< tdopen >}}
 
 
-Dessauge, F., S. Hilaly, et al. "{{% resource_link "f0ee8791-86d5-4575-b96a-357e7ba0c14e" "c-Myc Activation by _Theileria_ Parasites Promotes Survival of infected B-lymphocytes" %}}." _Oncogene_ 24, no. 6 (2005): 1075–83. (Nature Publishing Group)
+Dessauge, F., S. Hilaly, et al. "[c-Myc Activation by _Theileria_ Parasites Promotes Survival of infected B-lymphocytes](http://dx.doi.org/10.1038/sj.onc.1208314)." _Oncogene_ 24, no. 6 (2005): 1075–83. (Nature Publishing Group)
 
-Marsolier, J., M. Perichon, et al. "{{% resource_link "17ab7944-1daa-4d41-b47a-44f2a3023457" "_Theileria_ Parasites Secrete a Prolyl Isomerase to Maintain Host Leukocyte Transformation" %}}." _Nature_ 520, no. 7547 (2015): 378–82.
+Marsolier, J., M. Perichon, et al. "[_Theileria_ Parasites Secrete a Prolyl Isomerase to Maintain Host Leukocyte Transformation](http://dx.doi.org/10.1038/nature14044)." _Nature_ 520, no. 7547 (2015): 378–82.
 
 
 {{< tdclose >}}
@@ -155,9 +157,9 @@ Marsolier, J., M. Perichon, et al. "{{% resource_link "17ab7944-1daa-4d41-b47a-4
 {{< tdopen >}}
 
 
-Brunet, J., A. W. Pfaff, et al. "{{% resource_link "f8d6c3f2-08ab-47d9-a61e-acab5e94d872" "_Toxoplasma Gondii_ Exploits UHRF1 and Induces Host Cell Cycle Arrest at G2 to Enable its Proliferation" %}}." _Cellular Microbiology_ 10, no. 4 (2008): 908–20. (Blackwell Publishing Limited)
+Brunet, J., A. W. Pfaff, et al. "[_Toxoplasma Gondii_ Exploits UHRF1 and Induces Host Cell Cycle Arrest at G2 to Enable its Proliferation](http://dx.doi.org/10.1111/j.1462-5822.2007.01093.x)." _Cellular Microbiology_ 10, no. 4 (2008): 908–20. (Blackwell Publishing Limited)
 
-Bougdour, A., E. Durandau, et al. "{{% resource_link "567d76b9-6d78-4f8c-b75b-d96747ce658b" "Host Cell Subversion by _Toxoplasma_ GRA16, an Exported Dense Granule Protein that Targets the Host Cell Nucleus and Alters Gene Expression" %}}." _Cell Host & Microbe_ 13, no. 4 (2013): 489–500.
+Bougdour, A., E. Durandau, et al. "[Host Cell Subversion by _Toxoplasma_ GRA16, an Exported Dense Granule Protein that Targets the Host Cell Nucleus and Alters Gene Expression](http://dx.doi.org/10.1016/j.chom.2013.03.002)." _Cell Host & Microbe_ 13, no. 4 (2013): 489–500.
 
 
 {{< tdclose >}}
@@ -197,9 +199,9 @@ Jamming communications: Strategies to thwart innate immunity
 {{< tdopen >}}
 
 
-Lambert, H., N. Hitziger, et al. "{{% resource_link "e550e223-4560-4480-ad83-bc1bdc7dfb61" "Induction of Dendritic Cell Migration upon _Toxoplasma Gondii_ Infection Potentiates Parasite Dissemination" %}}." _Cellular Microbiology_ 8, no. 10 (2006): 1611–23. (Blackwell Publishing Limited)
+Lambert, H., N. Hitziger, et al. "[Induction of Dendritic Cell Migration upon _Toxoplasma Gondii_ Infection Potentiates Parasite Dissemination](http://dx.doi.org/10.1111/j.1462-5822.2006.00735.x)." _Cellular Microbiology_ 8, no. 10 (2006): 1611–23. (Blackwell Publishing Limited)
 
-Etheridge, R. D., A. Alaganan, et al. "{{% resource_link "1c55231f-a740-404d-a856-14b272258968" "The _Toxoplasma_ Pseudokinase ROP5 Forms Complexes With ROP18 and ROP17 Kinases that Synergize to Control Acute Virulence in Mice" %}}." _Cell Host & Microbe_ 15, no. 5 (2014): 537–50.
+Etheridge, R. D., A. Alaganan, et al. "[The _Toxoplasma_ Pseudokinase ROP5 Forms Complexes With ROP18 and ROP17 Kinases that Synergize to Control Acute Virulence in Mice](http://dx.doi.org/10.1016/j.chom.2014.04.002)." _Cell Host & Microbe_ 15, no. 5 (2014): 537–50.
 
 
 {{< tdclose >}}
@@ -221,9 +223,9 @@ The fatal consequences of hide and seek: How changes in Plasmodium's surface inc
 {{< tdopen >}}
 
 
-Lavstsen, T., L. Turner, et al. "{{% resource_link "6c3c97bc-48e7-48f6-81ab-81adfa864281" "_Plasmodium Falciparum_ Erythrocyte Membrane Protein 1 Domain Cassettes 8 and 13 are Associated With Severe Malaria in Children" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 109, no. 26 (2012): E1791–800. (National Academy of Sciences)
+Lavstsen, T., L. Turner, et al. "[_Plasmodium Falciparum_ Erythrocyte Membrane Protein 1 Domain Cassettes 8 and 13 are Associated With Severe Malaria in Children](http://dx.doi.org/10.1073/pnas.1120455109)." _Proceedings of the National Academy of Sciences of the United States of America_ 109, no. 26 (2012): E1791–800. (National Academy of Sciences)
 
-Avril, M., A. K. Tripathi, et al. "{{% resource_link "2010521e-3ec3-4fe6-a2db-10e195836cff" "A Restricted Subset of _Var_ Genes Mediates Adherence of _Plasmodium Falciparum_\-Infected Erythrocytes to Brain Endothelial Cells" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 109, no. 26 (2012): E1782–90.
+Avril, M., A. K. Tripathi, et al. "[A Restricted Subset of _Var_ Genes Mediates Adherence of _Plasmodium Falciparum_\-Infected Erythrocytes to Brain Endothelial Cells](http://dx.doi.org/10.1073/pnas.1120534109)." _Proceedings of the National Academy of Sciences of the United States of America_ 109, no. 26 (2012): E1782–90.
 
 
 {{< tdclose >}}
@@ -245,9 +247,9 @@ Malarial mind control–Plasmodium increases transmission by modifying mosquito 
 {{< tdopen >}}
 
 
-Cator, L. J., J. George, et al. "'{{% resource_link "f10f83cf-a0da-426e-bf31-1abdce5831d8" "Manipulation' Without the Parasite: Altered Feeding Behaviour of Mosquitoes is Not Dependent on Infection with Malaria Parasites" %}}." _Proceedings. of the Royal Society B Biological Science_ 280, no. 1763 (2013): 20130711. (The Royal Society)
+Cator, L. J., J. George, et al. "'[Manipulation' Without the Parasite: Altered Feeding Behaviour of Mosquitoes is Not Dependent on Infection with Malaria Parasites](http://dx.doi.org/10.1098/rspb.2013.0711)." _Proceedings. of the Royal Society B Biological Science_ 280, no. 1763 (2013): 20130711. (The Royal Society)
 
-De Moraes, C. M. Stanczyk, et al. "{{% resource_link "c3470f31-ab24-451a-9675-d88dbf4a6da8" "Malaria-Induced Changes in Host Odors Enhance Mosquito Attraction" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 30 (2014): 11079–84. (National Academy of Sciences)
+De Moraes, C. M. Stanczyk, et al. "[Malaria-Induced Changes in Host Odors Enhance Mosquito Attraction](http://dx.doi.org/10.1073/pnas.1405617111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 30 (2014): 11079–84. (National Academy of Sciences)
 
 
 {{< tdclose >}}
@@ -269,11 +271,11 @@ Of mice, rats, cats, leopards and chimpanzees
 {{< tdopen >}}
 
 
-Berdoy, M., J. P. Webster, et al. "{{% resource_link "43ef1ac3-b8e9-46ec-aeae-4597003658a1" "Fatal Attraction in Rats Infected With _Toxoplasma Gondii_" %}}." _Proceedings of the Royal Society B Biological Science_ 267, no. 1452 (2000): 1591–94. (The Royal Society)
+Berdoy, M., J. P. Webster, et al. "[Fatal Attraction in Rats Infected With _Toxoplasma Gondii_](http://dx.doi.org/10.1098/rspb.2000.1182)." _Proceedings of the Royal Society B Biological Science_ 267, no. 1452 (2000): 1591–94. (The Royal Society)
 
-Poirotte, C., P. M. Kappeler, et al. "{{% resource_link "84f6f162-3135-403e-b1be-fc32880fa910" "Morbid Attraction to Leopard Urine in Toxoplasma-Infected Chimpanzees" %}}." _Current Biology_ 26, no. 3 (2016): R98–9.
+Poirotte, C., P. M. Kappeler, et al. "[Morbid Attraction to Leopard Urine in Toxoplasma-Infected Chimpanzees](http://dx.doi.org/10.1016/j.cub.2015.12.020)." _Current Biology_ 26, no. 3 (2016): R98–9.
 
-Prandovszky, E., E. Gaskell, et al. "{{% resource_link "c7c15fa8-eaf7-4764-9e87-4b8f12b952db" "The Neurotropic Parasite _Toxoplasma Gondii_ Increases Dopamine Metabolism" %}}." _PLoS ONE_ 6, no. 9 (2011): e23866. (Public Library of Science)
+Prandovszky, E., E. Gaskell, et al. "[The Neurotropic Parasite _Toxoplasma Gondii_ Increases Dopamine Metabolism](http://dx.doi.org/10.1371/journal.pone.0023866)." _PLoS ONE_ 6, no. 9 (2011): e23866. (Public Library of Science)
 
 
 {{< tdclose >}}
