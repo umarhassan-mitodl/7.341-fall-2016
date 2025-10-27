@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes a course description, information on course format
   and grading, and a calendar.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -162,7 +160,7 @@ Midterm Written Assignment due
 Field trip
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the [Lourido Lab](http://louridolab.wi.mit.edu/), at the [Whitehead Institute](http://wi.mit.edu/)
+Field trip to the {{% resource_link "cbf651e8-7e55-4d26-8056-3ce4350aef1d" "Lourido Lab" %}}, at the {{% resource_link "699ae832-739a-4b2f-8f08-381705be1d2a" "Whitehead Institute" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
